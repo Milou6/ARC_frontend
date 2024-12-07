@@ -1,0 +1,10 @@
+{
+  "cors": {
+    "allowCredentials": true,
+    "allowedOrigins": [
+      "http://localhost:5173",
+      "https://arc-frontend-eight.vercel.app",
+      "https://milesh.pythonanywhere.com"
+    ]
+  }
+}
